@@ -71,7 +71,8 @@
    - 选择您部署的Worker。
    - 点击“设置”选项卡，然后选择“触发器”。
    - 在“Cron 触发器”部分，点击“添加 Cron 触发器”。
-     ![Uploading 图片.png…]()
+    <img width="1920" height="913" alt="图片" src="https://github.com/user-attachments/assets/032434ca-8586-44ae-bc97-999a13d50f8f" />
+
 
    - 输入Cron表达式：0 */12 * * * （每12小时执行一次）
    - 选择时区（例如：UTC）。
